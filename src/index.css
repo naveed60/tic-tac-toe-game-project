@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Roboto+Slab:wght@400;700&display=swap');
 
 * {
-  box-sizing: border-box;
+  box-sizing: border-box ;
 }
 
 html {
@@ -52,7 +52,7 @@ h1 {
   margin: 3rem auto;
   padding: 2rem;
   border-radius: 6px;
-  background: linear-gradient(#3e4d47, #42595b);
+  background: linear-gradient(#297355, #2d7177);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   position: relative;
 }
